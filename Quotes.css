@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Roboto+Mono:ital,wght@1,600&display=swap');
+
+body{
+	background-color: Thistle;
+}
+
+.container{
+	margin-right: 25rem;
+	margin-left: 2rem;
+	margin-top: 5rem;
+	color: LightSalmon;
+	font-family: 'Roboto Mono', monospace;
+	border: 3px solid white;
+	border-radius: 3.5rem;
+	padding: 3rem;
+	background-color: black;
+}
+
+.container h2{
+	color: DarkKhaki	;
+}
+#quotes{
+	margin-top: 1rem;
+}
+
+#btn{
+	margin-top: 4.5rem;
+	background: LavenderBlush;
+	color: darkblue;
+	padding: 5px;
+	border-radius: 15px;
+	padding: 8px;
+	border-color: darkcyan;
+	font-family: 'Roboto Mono', monospace;
+}
