@@ -16,7 +16,7 @@ valForm = () => {
   }
 
   if (number == "") {
-    alert("Number is required!").style.color = "red";
+    alert("Number is required!");
     return false;
   }
   return true;
@@ -45,7 +45,7 @@ showData = () => {
   });
   document.querySelector("#tdata").innerHTML = html;
 };
-document.onload = showData();
+//document.onload = showData();
 
 //Adding data to the localStorage.
 
