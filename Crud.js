@@ -45,7 +45,7 @@ showData = () => {
   });
   document.querySelector("#tdata").innerHTML = html;
 };
-//document.onload = showData();
+document.onload = showData();
 
 //Adding data to the localStorage.
 
